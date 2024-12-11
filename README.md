@@ -1,2 +1,3 @@
-# web3rdme
-web3 rdme
+
+# My Portfolio
+This is a repository for showcasing my coding projects and open-source contributions.
